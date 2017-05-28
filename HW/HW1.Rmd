@@ -1,0 +1,22 @@
+---
+title: "DATA606 HW1"
+author: "JM"
+date: "May 24, 2017"
+output:
+  html_document:
+    theme: cerulean
+    highlight: pygments
+    css: ./lab.css
+  pdf_document: default
+---
+
+## Answers to Exercises
+
+### 1.8
+#### 
+
+
+1.9 Answer
+
+1.10  Answer
+

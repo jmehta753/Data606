@@ -1,5 +1,5 @@
 ---
-title: "DATA606 Lab4a - Foundations for statistical inference - Confidence intervals"
+title: "DATA606 Lab4b - Foundations for statistical inference - Confidence intervals"
 author: "JM"
 date: "May 24, 2017"
 output:
